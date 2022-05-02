@@ -1,0 +1,1 @@
+https://www.jetbrains.com/help/pycharm/2022.1/configuring-project-and-ide-settings.html#restore-defaults
